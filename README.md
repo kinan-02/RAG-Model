@@ -10,3 +10,6 @@ Please Make sure to include the following libraries:
 
 ```bash
 pip install sentence_transformers pinecone os tqdm cohere numpy pandas
+```
+
+Please Download the data that is included in the repository (json file)
