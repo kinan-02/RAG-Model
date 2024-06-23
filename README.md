@@ -6,5 +6,7 @@ Please Make sure to include the following libraries:
 * tqdm
 * cohere (Or any other LLM you want)
 * numpy
+* pandas
 
-'''bash
+```bash
+pip install sentence_transformers pinecone os tqdm cohere numpy pandas
