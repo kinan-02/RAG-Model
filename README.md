@@ -6,3 +6,5 @@ Please Make sure to include the following libraries:
 * tqdm
 * cohere (Or any other LLM you want)
 * numpy
+
+bash
